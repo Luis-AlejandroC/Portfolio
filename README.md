@@ -1,6 +1,5 @@
 ## Hi all, I'm Luis Alejandro 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <a href="https://www.linkedin.com/in/luis-alejandro-429b27134">
   <img align="left" alt="Luis Alejandro's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  
